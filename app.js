@@ -7,8 +7,6 @@ var margin = { top: 30, right: 10, bottom: 30, left: 30 },
 
     days = ["M", "T", "W", "T", "F"],
     weeks = ["", "J", "", "", "", "F", "", "", "", "M", "", "", "", "", "A", "", "", "", "M", "", "", "", "J", "", "", "", "", "J", "", "", "", "A", "", "", "", "S", "", "", "", "", "O", "", "", "", "N", "", "", "", "D", "", "", "", "" ],
-    // values = ['hike', 'bike', 'swim', 'run', 'stretch', 'climb', 'lift'],
-    // colors = ["#D500F9", "#651FFF", "#00B8D4", "#64DD17", "#FFD600", "#FF6D00", "#FF1744"];
     values = ['coffee', 'water'],
     colors = ["522F1D", "97E6F7"];
 
@@ -41,6 +39,34 @@ var weekLabels = svg.selectAll(".week") // add week labels
       .style("text-anchor", "middle")
       .attr("transform", "translate(" + gridSize / 2 + ", -6)")
       .attr("class", "label");
+
+
+// nio.source.socketio(
+//  "http://brand.nioinstances.com",
+//  ["count_by_network"],
+//  120 // optional - will immediately stream cached data within the last 120 seconds
+// )
+// .pipe(nio.filter(function(chunk) {
+//    return chunk.type === "twitter";
+// }))
+// .pipe(nio.pass(function(chunk){
+//   tweets.innerHTML = parseInt(chunk.count_per_sec, 10);
+//   if (chunk.count_per_sec > max) {
+//     max = chunk.count_per_sec;
+//   }
+
+nio.source.generate(function(iter) {
+  var arr = [
+    {"userId":"graven","date":"1/1/2014","type":"water","time":"8 am"},
+    {"userId":"jenny","date":"1/1/2014","type":"water","time":"1 pm"},
+    {"userId":"patrick","date":"1/2/2014","type":"coffee","time":"9 am"},
+    {"userId":"peter","date":"1/2/2014","type":"water","time":"11 am"},
+    {"userId":"tom","date":"1/2/2014","type":"coffee","time":"1:30 pm"}
+  ];
+  return arr[iter]}
+  , 5, 1000).pipe(nio.pass(function(chunk) {
+   console.log(chunk.userId + ' ' + chunk.date + ' ' + chunk.type + ' ' + chunk.time);
+}));
 
 d3.tsv("coffee-data.tsv", // Data parsing! Your data here: ('path', callback(), callback())
   function(d) { // in the first cb you construct your data object
