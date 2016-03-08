@@ -1,58 +1,2402 @@
 [
-  {"userId":495653,"date":"1/7/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/7/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/7/2014","type":"water","dayPart":"am"},
-  {"userId":495653,"date":"1/7/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/7/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/7/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/1/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/1/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/1/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/1/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/2/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/2/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/2/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/2/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/3/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/3/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/3/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/3/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/8/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/8/2014","type":"water","dayPart":"am"},
-  {"userId":495653,"date":"1/9/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/9/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/6/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/6/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/6/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/6/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/10/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/10/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/10/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/10/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/13/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/13/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/13/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/13/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/13/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/14/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/15/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/16/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/17/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/20/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/21/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/22/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/23/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/24/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/27/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"1/28/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"1/29/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"1/30/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"2/3/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"2/4/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"2/5/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"2/6/2014","type":"water","dayPart":"pm"},
-  {"userId":495653,"date":"2/7/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"2/10/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"2/11/2014","type":"coffee","dayPart":"am"},
-  {"userId":495653,"date":"2/12/2014","type":"coffee","dayPart":"pm"},
-  {"userId":495653,"date":"2/13/2014","type":"water","dayPart":"pm"},{"userId":495653,"date":"2/18/2014","type":"coffee","dayPart":"pm"},{"userId":495653,"date":"2/19/2014","type":"coffee","dayPart":"am"},{"userId":495653,"date":"2/20/2014","type":"coffee","dayPart":"am"},{"userId":495653,"date":"2/21/2014","type":"coffee","dayPart":"pm"},{"userId":495653,"date":"2/24/2014","type":"water","dayPart":"pm"},{"userId":495653,"date":"2/25/2014","type":"coffee","dayPart":"pm"},{"userId":495653,"date":"2/26/2014","type":"coffee","dayPart":"am"},{"userId":495653,"date":"2/26/2014","type":"coffee","dayPart":"am"},{"userId":495653,"date":"2/27/2014","type":"coffee","dayPart":"pm"},{"userId":495653,"date":"2/28/2014","type":"water","dayPart":"pm"},{"userId":495653,"date":"2/14/2014","type":"coffee","dayPart":"pm"},{"userId":495653,"date":"3/4/2014","type":"coffee","dayPart":"am"},{"userId":495653,"date":"3/4/2014","type":"coffee","dayPart":"am"},{"userId":495653,"date":"3/4/2014","type":"water","dayPart":"pm"},{"userId":495653,"date":"3/5/2014","type":"water","dayPart":"pm"},{"userId":495653,"date":"3/5/2014","type":"water","dayPart":"pm"},{"userId":495653,"date":"3/5/2014","type":"water","dayPart":"pm"},{"userId":495653,"date":"3/6/2014","type":"coffee","dayPart":"pm"}]
+  {
+    "_id": "56dddb2d261abfdd4ffd4e57",
+    "date": "02 18 2016",
+    "time": "03:59",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d416e324938cc0e6d",
+    "date": "02 15 2016",
+    "time": "01:05",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d4cc8d7e9183c8849",
+    "date": "02 11 2016",
+    "time": "07:17",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2da8018bc07fd6bf58",
+    "date": "02 04 2016",
+    "time": "03:37",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2dbb07125378dc6d68",
+    "date": "02 15 2016",
+    "time": "11:01",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2dcbba5550daa21f9d",
+    "date": "02 07 2016",
+    "time": "11:21",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d2f44325d29e28e6f",
+    "date": "01 05 2016",
+    "time": "01:24",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2dfcf6ccb3d95467e1",
+    "date": "01 26 2016",
+    "time": "12:55",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d75e969c4501c4e15",
+    "date": "01 31 2016",
+    "time": "12:36",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d2cf47cc0d3a08840",
+    "date": "01 01 2016",
+    "time": "07:05",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d0838e7b946fb0fab",
+    "date": "02 19 2016",
+    "time": "01:04",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d3f4c8b208953b82d",
+    "date": "01 28 2016",
+    "time": "02:00",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2dd7fc86208a03c3ff",
+    "date": "01 29 2016",
+    "time": "11:01",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d07dd1f350ddc5531",
+    "date": "01 07 2016",
+    "time": "10:53",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2d1474d0a4989364f4",
+    "date": "01 17 2016",
+    "time": "06:59",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d8925e1e939b5ad05",
+    "date": "01 01 2016",
+    "time": "01:10",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2db0dc2cd20d6ceb10",
+    "date": "03 05 2016",
+    "time": "06:36",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d620bda4ae888ebd3",
+    "date": "01 06 2016",
+    "time": "01:10",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d5fccf1ffea8b2ed9",
+    "date": "01 18 2016",
+    "time": "01:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2d776b0653bad77803",
+    "date": "03 01 2016",
+    "time": "04:47",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d72029b5df7de437c",
+    "date": "02 11 2016",
+    "time": "11:12",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2dd31e25f87ee23704",
+    "date": "02 13 2016",
+    "time": "02:20",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d12a6b0d1615c5838",
+    "date": "02 21 2016",
+    "time": "06:19",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d7b88f57eba2dfc55",
+    "date": "03 03 2016",
+    "time": "05:37",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d528629a1f71e49dd",
+    "date": "02 22 2016",
+    "time": "04:03",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2d571f4b30e13484f0",
+    "date": "01 14 2016",
+    "time": "11:27",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2de0108904a217db1a",
+    "date": "01 22 2016",
+    "time": "02:58",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2ddda453857adbfe78",
+    "date": "01 01 2016",
+    "time": "09:34",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d2dc9eed084e881de",
+    "date": "01 04 2016",
+    "time": "09:46",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d79331d86e41cd7ad",
+    "date": "01 19 2016",
+    "time": "06:47",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2dba194eba025fe68e",
+    "date": "01 25 2016",
+    "time": "10:14",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dc1cbd058a2e1e2ea",
+    "date": "01 17 2016",
+    "time": "01:25",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d880a638f51a3e959",
+    "date": "01 13 2016",
+    "time": "02:14",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2dc8457c3136764b77",
+    "date": "01 31 2016",
+    "time": "03:22",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d2900b848131ae601",
+    "date": "01 29 2016",
+    "time": "08:05",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d1494dc012a2233e1",
+    "date": "02 13 2016",
+    "time": "10:50",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2dcad400cf05b87564",
+    "date": "01 01 2016",
+    "time": "11:27",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d65b5b21b1119229b",
+    "date": "01 30 2016",
+    "time": "02:59",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d1e193c52aec2f360",
+    "date": "01 15 2016",
+    "time": "01:48",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d5e292ac83040430b",
+    "date": "03 02 2016",
+    "time": "03:00",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d4714dce9cecdb5e3",
+    "date": "01 07 2016",
+    "time": "03:42",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d403f2b895f2e0d25",
+    "date": "03 07 2016",
+    "time": "03:58",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d278f0a3183889f30",
+    "date": "01 16 2016",
+    "time": "04:11",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d2ba3e5770a3c34ea",
+    "date": "02 05 2016",
+    "time": "10:17",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2d171b929b6fdfccdb",
+    "date": "01 12 2016",
+    "time": "09:33",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2dbb97174b55d9b61b",
+    "date": "01 06 2016",
+    "time": "01:20",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d841970d6c0c49bd4",
+    "date": "01 27 2016",
+    "time": "11:55",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2de5c94cc199969327",
+    "date": "02 07 2016",
+    "time": "05:44",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d0bfe9e75c2fb2bb6",
+    "date": "02 09 2016",
+    "time": "06:45",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2dcce105b2d85b45d9",
+    "date": "02 01 2016",
+    "time": "03:37",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dea21fcb21ccbc8cd",
+    "date": "01 11 2016",
+    "time": "03:40",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2df798ebf4e4e62c86",
+    "date": "01 27 2016",
+    "time": "05:13",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d25e40684dc451f37",
+    "date": "02 20 2016",
+    "time": "05:07",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d32ad6eea10b786c3",
+    "date": "02 12 2016",
+    "time": "04:43",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2df4477e47274f9d4e",
+    "date": "01 15 2016",
+    "time": "05:49",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2d53bfdcc3f9220b04",
+    "date": "01 05 2016",
+    "time": "08:58",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d7e02dbf705359be2",
+    "date": "03 06 2016",
+    "time": "03:00",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d3223e2918f0d2e40",
+    "date": "01 30 2016",
+    "time": "05:50",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d61f43025e8875c25",
+    "date": "02 10 2016",
+    "time": "03:56",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d6ef7e0b0bbe9d65c",
+    "date": "02 13 2016",
+    "time": "06:47",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2dc507d6fd4c979d9c",
+    "date": "01 01 2016",
+    "time": "12:03",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2dd5c84d4675fefad8",
+    "date": "02 27 2016",
+    "time": "12:47",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2daa4a170f6a73f248",
+    "date": "03 01 2016",
+    "time": "05:03",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d289c087a6b954239",
+    "date": "02 14 2016",
+    "time": "05:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d362b4627f1e4e0f6",
+    "date": "01 03 2016",
+    "time": "07:32",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2da14895c1c466eab0",
+    "date": "02 17 2016",
+    "time": "09:05",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d8a3d561d9324aac1",
+    "date": "01 14 2016",
+    "time": "02:57",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d7f6975df07f01d6f",
+    "date": "01 20 2016",
+    "time": "11:38",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d1ed3ba95e5769b23",
+    "date": "01 04 2016",
+    "time": "07:49",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d5a32a2121b89a2dd",
+    "date": "01 25 2016",
+    "time": "07:40",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d27eb8231da0f403c",
+    "date": "01 24 2016",
+    "time": "08:02",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2d732603934b6d5995",
+    "date": "02 09 2016",
+    "time": "06:16",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d6f4248273a81405b",
+    "date": "02 14 2016",
+    "time": "04:24",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d648b5d22d864cd06",
+    "date": "01 03 2016",
+    "time": "04:14",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2db12697219b2de65c",
+    "date": "02 25 2016",
+    "time": "10:41",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2dcd8f66febf401b1c",
+    "date": "01 21 2016",
+    "time": "11:31",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2ddf3fac7f4c14746c",
+    "date": "03 04 2016",
+    "time": "03:00",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d8fb922c7cba82b34",
+    "date": "01 26 2016",
+    "time": "08:04",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d6acdb50af1d7addb",
+    "date": "02 25 2016",
+    "time": "07:13",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d7374674f261dd445",
+    "date": "03 01 2016",
+    "time": "11:27",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d7d5295b051d4713c",
+    "date": "01 31 2016",
+    "time": "11:12",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2dfd5332a79ca83f7b",
+    "date": "01 03 2016",
+    "time": "09:59",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d6a8eb03d6ca6e81c",
+    "date": "02 21 2016",
+    "time": "03:57",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d41e9654239d68db8",
+    "date": "01 23 2016",
+    "time": "09:45",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d4dfc1a8110648624",
+    "date": "01 14 2016",
+    "time": "11:42",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d17a4de46bfcf3e22",
+    "date": "01 27 2016",
+    "time": "01:06",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d831021192282b108",
+    "date": "01 11 2016",
+    "time": "08:17",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2d65d002a58b7a91d2",
+    "date": "01 05 2016",
+    "time": "12:34",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2d28e08295901bb685",
+    "date": "03 04 2016",
+    "time": "02:56",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2dc13a3bb52b587c0b",
+    "date": "01 09 2016",
+    "time": "12:30",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d9d854c66c59b4b7b",
+    "date": "02 18 2016",
+    "time": "11:06",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d9da37acd98ebef88",
+    "date": "01 29 2016",
+    "time": "12:53",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2da31124725d19d91b",
+    "date": "01 07 2016",
+    "time": "06:26",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2df82a666de93995c2",
+    "date": "01 29 2016",
+    "time": "09:36",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2de55ffd20d1bb896d",
+    "date": "03 05 2016",
+    "time": "01:56",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2df86608d1e1370261",
+    "date": "02 12 2016",
+    "time": "09:34",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d36d0850e3b8deb66",
+    "date": "01 11 2016",
+    "time": "05:24",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2ddde8ba4be07b3d3e",
+    "date": "02 14 2016",
+    "time": "11:49",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d9309da9f3f6c3c1b",
+    "date": "01 25 2016",
+    "time": "03:04",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2dca5afad67a8230da",
+    "date": "01 05 2016",
+    "time": "12:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2dd37d637466e4c2b4",
+    "date": "01 04 2016",
+    "time": "07:18",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d70f669df2589b965",
+    "date": "02 27 2016",
+    "time": "09:41",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d4a21900bf7dc6e81",
+    "date": "01 23 2016",
+    "time": "09:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d9a8f64fe116e9845",
+    "date": "01 19 2016",
+    "time": "08:34",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d17c83256f3cb57bd",
+    "date": "02 02 2016",
+    "time": "12:07",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d9eb3f480adab77fa",
+    "date": "03 07 2016",
+    "time": "07:04",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d76f7c5fe856a5cec",
+    "date": "01 13 2016",
+    "time": "11:01",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d87d2c80bd3559745",
+    "date": "01 08 2016",
+    "time": "02:45",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d3280c433450250f3",
+    "date": "01 02 2016",
+    "time": "04:14",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d2776111bc5d45dc0",
+    "date": "01 16 2016",
+    "time": "03:45",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dc6dc4feb8d6ed892",
+    "date": "01 14 2016",
+    "time": "06:17",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2dd257f72f8610d3b1",
+    "date": "01 19 2016",
+    "time": "05:05",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d060d0c9ee7f5e75a",
+    "date": "01 26 2016",
+    "time": "03:21",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d8ddb29f8b6cd17a8",
+    "date": "01 01 2016",
+    "time": "02:43",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d927da11cf3d40b58",
+    "date": "02 11 2016",
+    "time": "02:44",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d0951b601c2a02b7b",
+    "date": "02 19 2016",
+    "time": "07:06",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d662142a45a4158d5",
+    "date": "01 20 2016",
+    "time": "06:54",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d7efbeffed358929d",
+    "date": "02 29 2016",
+    "time": "05:39",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2dc831a12ab67444d1",
+    "date": "02 23 2016",
+    "time": "03:30",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d2af5f2349c97f083",
+    "date": "01 05 2016",
+    "time": "06:57",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d5967e2d28ab073ba",
+    "date": "01 23 2016",
+    "time": "12:22",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2de63a78f8ca40d9b1",
+    "date": "02 14 2016",
+    "time": "01:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d79010bec2fbfadfa",
+    "date": "01 06 2016",
+    "time": "11:43",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d454882a75ba54cdb",
+    "date": "02 07 2016",
+    "time": "01:08",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d6c06d64a6805df03",
+    "date": "01 25 2016",
+    "time": "03:10",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d7e8d00c27395aca2",
+    "date": "02 03 2016",
+    "time": "10:39",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d61b19ffc7d578933",
+    "date": "02 28 2016",
+    "time": "07:20",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d195fdc417ed318db",
+    "date": "01 15 2016",
+    "time": "11:08",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d965bee5e7dd7620e",
+    "date": "02 06 2016",
+    "time": "11:56",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2de48544d8f20ce2d8",
+    "date": "02 16 2016",
+    "time": "10:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d24362fbf74ffe7b3",
+    "date": "01 18 2016",
+    "time": "10:22",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2ddac3b0c02d3f4657",
+    "date": "03 03 2016",
+    "time": "11:13",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d4e2279e090d0244f",
+    "date": "02 01 2016",
+    "time": "03:26",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2df085aa7390b8bb27",
+    "date": "03 03 2016",
+    "time": "06:00",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d9c7bf6d1b632e8bc",
+    "date": "03 05 2016",
+    "time": "04:16",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d2de7d6154f6d7abe",
+    "date": "01 21 2016",
+    "time": "04:38",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d34e4e017cb71a42f",
+    "date": "03 06 2016",
+    "time": "06:15",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d7dbcdcd96829718c",
+    "date": "02 12 2016",
+    "time": "07:50",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2dc7c5eb72665ffbf8",
+    "date": "01 29 2016",
+    "time": "02:24",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d2bf39a3808a43771",
+    "date": "02 24 2016",
+    "time": "05:05",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2da879d19a66abc4c5",
+    "date": "02 09 2016",
+    "time": "11:43",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2dc634d47579fb98f9",
+    "date": "02 03 2016",
+    "time": "07:07",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2df28576e297e77a6f",
+    "date": "02 09 2016",
+    "time": "12:22",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d6aecdb3d8d91311d",
+    "date": "01 24 2016",
+    "time": "11:54",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d08c2056a30028d1b",
+    "date": "01 04 2016",
+    "time": "07:20",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d86a17313e6e23427",
+    "date": "03 01 2016",
+    "time": "11:37",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d0b2b1703a4287dd9",
+    "date": "01 30 2016",
+    "time": "12:02",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2dc0daa2bc8c6b51f4",
+    "date": "03 03 2016",
+    "time": "06:59",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2db8cea051f3ef9359",
+    "date": "02 10 2016",
+    "time": "01:33",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d8ece1dcdea87411e",
+    "date": "01 19 2016",
+    "time": "03:12",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d64e4d53ab0227d73",
+    "date": "01 08 2016",
+    "time": "10:22",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d22a357be9822a5e5",
+    "date": "03 05 2016",
+    "time": "09:00",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d3f8b7ff45a0f8e27",
+    "date": "01 22 2016",
+    "time": "06:33",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2def355cb1abee58fb",
+    "date": "02 19 2016",
+    "time": "07:49",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dee08c4277e5350cb",
+    "date": "01 29 2016",
+    "time": "10:21",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d4418d35a612381e3",
+    "date": "01 08 2016",
+    "time": "05:23",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d1d92b1c9e597306d",
+    "date": "02 27 2016",
+    "time": "11:50",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d0000cab45293d656",
+    "date": "01 16 2016",
+    "time": "06:56",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d7d0e3b35b007066b",
+    "date": "01 15 2016",
+    "time": "07:25",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d058b5973f1a12fdf",
+    "date": "01 23 2016",
+    "time": "01:29",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d65c229be527be6d3",
+    "date": "01 05 2016",
+    "time": "08:47",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2dda84e87711d220b0",
+    "date": "02 10 2016",
+    "time": "07:38",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d35e69477457d310f",
+    "date": "03 03 2016",
+    "time": "03:41",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d37fa88e26edb754f",
+    "date": "01 31 2016",
+    "time": "01:57",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2df2ec177ceb7088bb",
+    "date": "01 21 2016",
+    "time": "01:56",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d92c14e0aaa327bd0",
+    "date": "01 16 2016",
+    "time": "11:49",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d52adc18bfb5d2604",
+    "date": "01 23 2016",
+    "time": "10:28",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d7125105bc538ef06",
+    "date": "02 01 2016",
+    "time": "09:26",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2df413a350e7e5f402",
+    "date": "01 11 2016",
+    "time": "07:06",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d719507aaf925c2b9",
+    "date": "02 07 2016",
+    "time": "05:00",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d94155d8b2e65c546",
+    "date": "02 02 2016",
+    "time": "06:41",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d41ff93f5e50752ae",
+    "date": "01 22 2016",
+    "time": "05:48",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d00787cfc3c0e243b",
+    "date": "01 19 2016",
+    "time": "07:50",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2dcc0ee126dd5ca2d5",
+    "date": "01 29 2016",
+    "time": "04:40",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d607a4bb9833ce9d7",
+    "date": "02 24 2016",
+    "time": "11:55",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d15fa636c937f37bf",
+    "date": "01 12 2016",
+    "time": "03:29",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2d77fb90d19f1df0aa",
+    "date": "01 31 2016",
+    "time": "08:49",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2d192b989a1a1257e2",
+    "date": "01 23 2016",
+    "time": "01:26",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d3956361231a66f13",
+    "date": "02 13 2016",
+    "time": "03:35",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2df3a7f2844cac6481",
+    "date": "01 14 2016",
+    "time": "04:40",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d9b1ed6b66facaf1c",
+    "date": "02 23 2016",
+    "time": "02:28",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dd1581d16eb265c9d",
+    "date": "01 11 2016",
+    "time": "02:49",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d7b77d2bdb66013d8",
+    "date": "01 13 2016",
+    "time": "02:21",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d597571de8c818592",
+    "date": "02 08 2016",
+    "time": "04:08",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2dc4fa88f30f7754fa",
+    "date": "02 13 2016",
+    "time": "06:33",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2df3f6b2cb9aa4d78f",
+    "date": "03 06 2016",
+    "time": "07:33",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d10b8a518fc9c036b",
+    "date": "01 02 2016",
+    "time": "12:56",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2ded2250798cb727b2",
+    "date": "02 24 2016",
+    "time": "01:42",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d0b3975a6d64988a1",
+    "date": "01 24 2016",
+    "time": "12:13",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2da4ef088deac5c423",
+    "date": "01 08 2016",
+    "time": "09:02",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d82bc365c9bb3302f",
+    "date": "02 12 2016",
+    "time": "11:17",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2dc26540da9a8529ec",
+    "date": "02 18 2016",
+    "time": "10:09",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2dc985681d82b72993",
+    "date": "01 04 2016",
+    "time": "06:28",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d53981ae3ef091b9a",
+    "date": "02 20 2016",
+    "time": "06:35",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2dd0c10523778ac3e5",
+    "date": "02 27 2016",
+    "time": "04:51",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d198c3b45f298e85e",
+    "date": "01 09 2016",
+    "time": "09:25",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2dbf204ea504b0713e",
+    "date": "01 21 2016",
+    "time": "04:43",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d485e924248817e07",
+    "date": "02 05 2016",
+    "time": "11:12",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2dc4ac235c0f0f3e58",
+    "date": "01 25 2016",
+    "time": "06:09",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2dae1f67114cc7b505",
+    "date": "02 04 2016",
+    "time": "01:13",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2db6c467d166d9ae46",
+    "date": "02 29 2016",
+    "time": "12:01",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d1206b7b4e2945901",
+    "date": "01 04 2016",
+    "time": "10:42",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d7bbea42ac7db02ef",
+    "date": "02 13 2016",
+    "time": "11:26",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d778edba1678ca823",
+    "date": "02 07 2016",
+    "time": "01:31",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2dcfc8963b9efa0447",
+    "date": "01 16 2016",
+    "time": "11:54",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d5ebe5a732b71b5a5",
+    "date": "02 06 2016",
+    "time": "11:35",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d203bcff32b63592e",
+    "date": "03 04 2016",
+    "time": "07:43",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d72ac8a966d1c6d8f",
+    "date": "03 03 2016",
+    "time": "08:57",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d3a897ba21f63b545",
+    "date": "01 27 2016",
+    "time": "11:20",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2dfe3179aac07a75c7",
+    "date": "01 23 2016",
+    "time": "10:01",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d1035184e408ed602",
+    "date": "02 20 2016",
+    "time": "01:03",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d01cf279324bc680c",
+    "date": "01 15 2016",
+    "time": "10:09",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d74825559f88b38ca",
+    "date": "01 13 2016",
+    "time": "08:48",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2de8a7281e04f763d4",
+    "date": "01 26 2016",
+    "time": "03:22",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2dbaa8720b74856591",
+    "date": "01 03 2016",
+    "time": "07:53",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d8e7820e71a4b6580",
+    "date": "01 07 2016",
+    "time": "07:42",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d0eeb9292ef87038d",
+    "date": "01 04 2016",
+    "time": "09:51",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2d9b8b8060be0f77fc",
+    "date": "02 02 2016",
+    "time": "07:36",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2dda6c1a3d9d1337cf",
+    "date": "02 20 2016",
+    "time": "12:42",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d2c23505f5db09512",
+    "date": "01 17 2016",
+    "time": "02:24",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d5de0197881ce1033",
+    "date": "01 17 2016",
+    "time": "10:56",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2df1cdb26075644b9c",
+    "date": "02 05 2016",
+    "time": "08:07",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d28583088c8082425",
+    "date": "03 05 2016",
+    "time": "10:16",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d4a30beb06d8614a0",
+    "date": "01 12 2016",
+    "time": "01:40",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2da8538d72e2a83d69",
+    "date": "02 03 2016",
+    "time": "03:34",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d573de6b6b8983e72",
+    "date": "02 02 2016",
+    "time": "03:42",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d115de9de6f5c8677",
+    "date": "02 19 2016",
+    "time": "08:35",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dc8c44bfaba11e7a9",
+    "date": "02 12 2016",
+    "time": "07:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d44600d4bf8e95618",
+    "date": "02 18 2016",
+    "time": "11:15",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d8ff6c1ee5480a25f",
+    "date": "01 13 2016",
+    "time": "03:10",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d1f7f579413fa4625",
+    "date": "02 27 2016",
+    "time": "03:41",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d075e12925fb8c47f",
+    "date": "01 22 2016",
+    "time": "01:11",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2dc010942de6d7e00a",
+    "date": "01 03 2016",
+    "time": "07:43",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d2ec7f34ed6d5f7c7",
+    "date": "01 23 2016",
+    "time": "09:16",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d232ca5e7b8ed6ba6",
+    "date": "01 19 2016",
+    "time": "08:49",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d8fefcc088d22c9f1",
+    "date": "01 11 2016",
+    "time": "01:14",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2d3a14dba301d99a74",
+    "date": "02 19 2016",
+    "time": "10:59",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d4d6633667f6118cf",
+    "date": "02 01 2016",
+    "time": "05:37",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d4a00212896d92c61",
+    "date": "01 22 2016",
+    "time": "09:20",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d61ea7e4f9f718209",
+    "date": "02 10 2016",
+    "time": "01:04",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d2944c75e1cfd6f90",
+    "date": "01 31 2016",
+    "time": "09:49",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d09fc54a6c46807e1",
+    "date": "01 14 2016",
+    "time": "07:20",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2ddb6c8bc252e3e7a2",
+    "date": "02 11 2016",
+    "time": "01:36",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2db2c684401d8c7f7e",
+    "date": "03 07 2016",
+    "time": "01:56",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d77f47444fabaf83e",
+    "date": "01 13 2016",
+    "time": "02:22",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d9cc8e9ef68ac341d",
+    "date": "01 03 2016",
+    "time": "03:02",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2d8c93254ec22dbcd4",
+    "date": "02 19 2016",
+    "time": "04:30",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d47cddbc2320046ef",
+    "date": "02 28 2016",
+    "time": "03:17",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d13e3e2aa7d8295ca",
+    "date": "02 17 2016",
+    "time": "04:07",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d38322ef9eb7e482b",
+    "date": "02 17 2016",
+    "time": "12:42",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2df77ce2fe0637da2f",
+    "date": "03 02 2016",
+    "time": "06:59",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d7befd7a91b0c1099",
+    "date": "03 07 2016",
+    "time": "05:42",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d326242a95842de10",
+    "date": "02 03 2016",
+    "time": "01:11",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d249bc218cf2c4143",
+    "date": "02 21 2016",
+    "time": "03:06",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2deba743dd9a605611",
+    "date": "01 07 2016",
+    "time": "05:41",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2db3be9c8d95e47e97",
+    "date": "02 14 2016",
+    "time": "01:00",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2df010deb090abd91a",
+    "date": "02 03 2016",
+    "time": "06:50",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d497a466b71b80a13",
+    "date": "01 27 2016",
+    "time": "12:14",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d9b0927df7158687f",
+    "date": "02 08 2016",
+    "time": "12:57",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d70703097953ff0ff",
+    "date": "02 27 2016",
+    "time": "03:01",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "graven"
+  },
+  {
+    "_id": "56dddb2d321b0ae1b70892f6",
+    "date": "01 20 2016",
+    "time": "12:38",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d45304a3d8d3b2fce",
+    "date": "01 17 2016",
+    "time": "09:19",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2da1a5bcb84d31589a",
+    "date": "02 05 2016",
+    "time": "11:20",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d75359cbb9df54a14",
+    "date": "02 10 2016",
+    "time": "05:09",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d4542e3563957ab28",
+    "date": "02 16 2016",
+    "time": "02:46",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "james"
+  },
+  {
+    "_id": "56dddb2db550a6d955bb245e",
+    "date": "02 21 2016",
+    "time": "09:40",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d8fb373ebf4ffbcaf",
+    "date": "02 04 2016",
+    "time": "12:59",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d79ff7158700f5eb5",
+    "date": "03 05 2016",
+    "time": "10:30",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d4eaa5657d6ffe3b8",
+    "date": "01 02 2016",
+    "time": "03:23",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2df18335b0f207314c",
+    "date": "02 23 2016",
+    "time": "01:01",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "andy"
+  },
+  {
+    "_id": "56dddb2d302ca6e8aa15cd46",
+    "date": "03 07 2016",
+    "time": "06:59",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2dee962acabe06566f",
+    "date": "02 09 2016",
+    "time": "07:21",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d59a5cce4a5b166b9",
+    "date": "03 05 2016",
+    "time": "12:03",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dbee2dcd4843a8ea9",
+    "date": "01 07 2016",
+    "time": "05:55",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d8c3135aa7945e0f5",
+    "date": "02 21 2016",
+    "time": "05:01",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d435ca42d362127dc",
+    "date": "01 20 2016",
+    "time": "02:07",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2dfc91dcf16f2572d9",
+    "date": "02 29 2016",
+    "time": "09:23",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d70e43c6f165a0002",
+    "date": "01 11 2016",
+    "time": "05:49",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "tom"
+  },
+  {
+    "_id": "56dddb2da911478ca265368b",
+    "date": "01 07 2016",
+    "time": "02:32",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d72882d9367c5b042",
+    "date": "01 24 2016",
+    "time": "10:57",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2dbb5729ef1ab5c18f",
+    "date": "02 16 2016",
+    "time": "03:44",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2de0fde2f5e92a44bb",
+    "date": "01 14 2016",
+    "time": "02:46",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d4fb6abcc2c3cf9f2",
+    "date": "02 24 2016",
+    "time": "05:08",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d2bec38eb8e22daed",
+    "date": "01 18 2016",
+    "time": "05:42",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2d08e276f60884803f",
+    "date": "01 29 2016",
+    "time": "11:39",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "john"
+  },
+  {
+    "_id": "56dddb2d322d90db8c2c3cce",
+    "date": "01 12 2016",
+    "time": "02:54",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2d164cb19132edcde1",
+    "date": "02 22 2016",
+    "time": "02:19",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  },
+  {
+    "_id": "56dddb2d5216c8475aba9263",
+    "date": "03 06 2016",
+    "time": "10:22",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2de9eb6e748c64b6d8",
+    "date": "02 28 2016",
+    "time": "06:48",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "cheryl"
+  },
+  {
+    "_id": "56dddb2da10b0239b14c900f",
+    "date": "02 02 2016",
+    "time": "11:25",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "patrick"
+  },
+  {
+    "_id": "56dddb2deaa34db73a16262f",
+    "date": "03 05 2016",
+    "time": "06:27",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2daf677357c65aad03",
+    "date": "01 10 2016",
+    "time": "02:01",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d3b218916373f3607",
+    "date": "01 13 2016",
+    "time": "07:38",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "doug"
+  },
+  {
+    "_id": "56dddb2d6d5636abba4b4bfd",
+    "date": "01 10 2016",
+    "time": "10:53",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
+    "_id": "56dddb2def0d37c615e8378c",
+    "date": "03 04 2016",
+    "time": "01:08",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "kaitlin"
+  },
+  {
+    "_id": "56dddb2d50c91e668a78d0f5",
+    "date": "01 29 2016",
+    "time": "09:21",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "peter"
+  },
+  {
+    "_id": "56dddb2d0eeb0fb4c5e837e5",
+    "date": "01 28 2016",
+    "time": "04:00",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "steve"
+  },
+  {
+    "_id": "56dddb2d4929aaacb57e55d1",
+    "date": "01 04 2016",
+    "time": "02:13",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2d6fa590728a1abb3f",
+    "date": "01 05 2016",
+    "time": "02:17",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "blake"
+  },
+  {
+    "_id": "56dddb2dd688c0f327db30d2",
+    "date": "02 07 2016",
+    "time": "07:02",
+    "beverage": "coffee",
+    "picture": "http://placehold.it/16x16",
+    "name": "randall"
+  }
+]
