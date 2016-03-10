@@ -1,5 +1,13 @@
 [
   {
+    "_id": "56dddb2d3f4c8b208953b82d",
+    "date": "03 09 2016",
+    "time": "02:00",
+    "beverage": "water",
+    "picture": "http://placehold.it/16x16",
+    "name": "jenny"
+  },
+  {
     "_id": "56dddb2d261abfdd4ffd4e57",
     "date": "02 18 2016",
     "time": "03:59",
